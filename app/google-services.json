@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "818773746234",
+    "firebase_url": "https://eventosappkotlin-default-rtdb.firebaseio.com",
+    "project_id": "eventosappkotlin",
+    "storage_bucket": "eventosappkotlin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818773746234:android:fd36d4cc197f92ccf40b03",
+        "android_client_info": {
+          "package_name": "com.example.eventosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk9l4J8Yz2VfSZhV9Pla-evC5nW0amZzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
